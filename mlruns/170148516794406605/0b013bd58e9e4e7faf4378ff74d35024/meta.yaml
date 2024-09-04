@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/170148516794406605/0b013bd58e9e4e7faf4378ff74d35024/artifacts
+end_time: 1725482378092
+entry_point_name: ''
+experiment_id: '170148516794406605'
+lifecycle_stage: active
+run_id: 0b013bd58e9e4e7faf4378ff74d35024
+run_name: amazing-frog-656
+run_uuid: 0b013bd58e9e4e7faf4378ff74d35024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725482375784
+status: 3
+tags: []
+user_id: babs

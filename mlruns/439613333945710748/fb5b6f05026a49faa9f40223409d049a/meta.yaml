@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/439613333945710748/fb5b6f05026a49faa9f40223409d049a/artifacts
+end_time: 1725479743094
+entry_point_name: ''
+experiment_id: '439613333945710748'
+lifecycle_stage: active
+run_id: fb5b6f05026a49faa9f40223409d049a
+run_name: amusing-sheep-328
+run_uuid: fb5b6f05026a49faa9f40223409d049a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725479741729
+status: 3
+tags: []
+user_id: babs

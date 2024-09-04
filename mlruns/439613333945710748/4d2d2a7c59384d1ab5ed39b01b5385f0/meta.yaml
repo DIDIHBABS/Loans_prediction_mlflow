@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/439613333945710748/4d2d2a7c59384d1ab5ed39b01b5385f0/artifacts
+end_time: 1725479159334
+entry_point_name: ''
+experiment_id: '439613333945710748'
+lifecycle_stage: active
+run_id: 4d2d2a7c59384d1ab5ed39b01b5385f0
+run_name: unequaled-ray-257
+run_uuid: 4d2d2a7c59384d1ab5ed39b01b5385f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725479158025
+status: 3
+tags: []
+user_id: babs

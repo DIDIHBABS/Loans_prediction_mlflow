@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/170148516794406605/dbeb36708aa84e0198aa5d7b7618651b/artifacts
+end_time: 1725482379216
+entry_point_name: ''
+experiment_id: '170148516794406605'
+lifecycle_stage: active
+run_id: dbeb36708aa84e0198aa5d7b7618651b
+run_name: victorious-goose-992
+run_uuid: dbeb36708aa84e0198aa5d7b7618651b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725482378094
+status: 3
+tags: []
+user_id: babs

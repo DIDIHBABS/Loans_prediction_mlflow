@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/170148516794406605/cd52a1f8f8ab4b129d653a1fd8b84c79/artifacts
+end_time: 1725483976265
+entry_point_name: ''
+experiment_id: '170148516794406605'
+lifecycle_stage: active
+run_id: cd52a1f8f8ab4b129d653a1fd8b84c79
+run_name: powerful-foal-495
+run_uuid: cd52a1f8f8ab4b129d653a1fd8b84c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725483975181
+status: 3
+tags: []
+user_id: babs

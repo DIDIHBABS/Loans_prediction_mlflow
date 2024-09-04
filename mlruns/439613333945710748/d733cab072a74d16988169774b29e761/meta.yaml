@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/439613333945710748/d733cab072a74d16988169774b29e761/artifacts
+end_time: 1725479462171
+entry_point_name: ''
+experiment_id: '439613333945710748'
+lifecycle_stage: active
+run_id: d733cab072a74d16988169774b29e761
+run_name: bald-bird-250
+run_uuid: d733cab072a74d16988169774b29e761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725479460843
+status: 3
+tags: []
+user_id: babs

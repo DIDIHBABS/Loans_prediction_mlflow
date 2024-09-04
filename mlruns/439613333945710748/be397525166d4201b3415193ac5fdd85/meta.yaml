@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/439613333945710748/be397525166d4201b3415193ac5fdd85/artifacts
+end_time: 1725479117230
+entry_point_name: ''
+experiment_id: '439613333945710748'
+lifecycle_stage: active
+run_id: be397525166d4201b3415193ac5fdd85
+run_name: calm-cat-401
+run_uuid: be397525166d4201b3415193ac5fdd85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725479117223
+status: 4
+tags: []
+user_id: babs

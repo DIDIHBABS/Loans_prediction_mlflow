@@ -1,0 +1,6 @@
+artifact_location: file:///Users/babs/MLOPS/mlflow/mlruns/170148516794406605
+creation_time: 1725482074757
+experiment_id: '170148516794406605'
+last_update_time: 1725482074757
+lifecycle_stage: active
+name: Loan_prediction

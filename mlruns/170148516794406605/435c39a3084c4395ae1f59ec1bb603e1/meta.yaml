@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/170148516794406605/435c39a3084c4395ae1f59ec1bb603e1/artifacts
+end_time: 1725482380419
+entry_point_name: ''
+experiment_id: '170148516794406605'
+lifecycle_stage: active
+run_id: 435c39a3084c4395ae1f59ec1bb603e1
+run_name: smiling-mouse-826
+run_uuid: 435c39a3084c4395ae1f59ec1bb603e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725482379218
+status: 3
+tags: []
+user_id: babs

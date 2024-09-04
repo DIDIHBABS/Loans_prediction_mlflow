@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/652500403680846418/604e8f74ff594800ad6c23c29acb1d18/artifacts
+end_time: 1725477586876
+entry_point_name: ''
+experiment_id: '652500403680846418'
+lifecycle_stage: active
+run_id: 604e8f74ff594800ad6c23c29acb1d18
+run_name: agreeable-seal-475
+run_uuid: 604e8f74ff594800ad6c23c29acb1d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725477586868
+status: 3
+tags: []
+user_id: babs

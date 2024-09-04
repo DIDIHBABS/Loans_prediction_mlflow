@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/652500403680846418/5882768732c4458a9cb84d2576f32b5d/artifacts
+end_time: 1725477265214
+entry_point_name: ''
+experiment_id: '652500403680846418'
+lifecycle_stage: active
+run_id: 5882768732c4458a9cb84d2576f32b5d
+run_name: Test Demo
+run_uuid: 5882768732c4458a9cb84d2576f32b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725477265206
+status: 3
+tags: []
+user_id: babs

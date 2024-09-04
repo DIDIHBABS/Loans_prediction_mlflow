@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/babs/MLOPS/mlflow/mlruns/170148516794406605/6f0fcf95e6a84c11a53501552c90f4cd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '170148516794406605'
+lifecycle_stage: active
+run_id: 6f0fcf95e6a84c11a53501552c90f4cd
+run_name: aged-cow-994
+run_uuid: 6f0fcf95e6a84c11a53501552c90f4cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725482074833
+status: 1
+tags: []
+user_id: babs
